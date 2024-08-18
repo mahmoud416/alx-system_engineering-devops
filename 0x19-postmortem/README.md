@@ -1,6 +1,4 @@
 #0x19-postmortem task using webstack debugging #1
-#By CryptoTechCoder [Visit Crypto Tech Coder YouTube channel](https://www.youtube.com/@cryptotechcoder)
-
 
 
 ![Technical Issue Resolution](./postmorterm_technical.webp)
